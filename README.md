@@ -35,9 +35,7 @@ El programa cuenta con varios métodos clave que permiten la gestión de usuario
 - **guardarUsuarioEnArchivo:**  
   Sirve para registrar un nuevo usuario. Abre el archivo en modo escritura y agrega la información en formato `username,password,rol`. Si ocurre un error al escribir, se muestra un mensaje en la consola.
 
-## Clase Usuario
-
-Finalmente, la clase **Usuario** proporciona métodos para obtener el nombre de usuario, la contraseña encriptada y el rol. La contraseña no puede modificarse después de ser almacenada, lo que evita posibles vulnerabilidades.
+  Finalmente, la clase **Usuario** proporciona métodos para obtener el nombre de usuario, la contraseña encriptada y el rol. La contraseña no puede modificarse después de ser almacenada, lo que evita posibles       vulnerabilidades.
 
 ---
 
